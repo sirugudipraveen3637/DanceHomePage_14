@@ -1,20 +1,20 @@
-# Street Style Landing Page
+# Dance Landing Page
 
-##### Published Url:-[Street Style Landing Page](https://62ec94dbce17ee76d794a367--sirugudi.netlify.app/)
+##### Published Url:-[Dance Page](https://singular-klepon-8b7cbe.netlify.app/)
 
 
-<img src="https://github.com/sirugudipraveen3637/StreetStyleLandingPage_1/blob/main/1.png" height="60%" width="75%"/>
+<img src="https://github.com/sirugudipraveen3637/DanceHomePage_14/blob/main/14.png" height="60%" width="75%"/>
 
 
 ### Knowledge Gained:-
 
   
-  - Float
-  - Navigation Menu Positioning
-  - Type of Selectors
-  - Image Overlap
+  - Stroke
+  - Image positioning
+  - Flex-Justify content
+
   
-### Development Efforts:- 3.50 hours
+### Development Efforts:- 4 hours
   
 ### Technologies:-
 <span>
