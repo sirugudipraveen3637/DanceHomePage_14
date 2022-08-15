@@ -12,6 +12,7 @@
   - Stroke
   - Image positioning
   - Flex-Justify content
+  - Responsive web
 
   
 ### Development Efforts:- 4 hours
